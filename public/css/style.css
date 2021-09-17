@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+img{
+  width: 100%;
+}
+figure{
+  width: 20%;
+}
+.li{
+  padding:12px;
+}
+.editar{
+  text-decoration: none;
+  margin-left:5px;
+  padding: 5px;
+  background-color:#0A7AB2;
+  color:#fff;
+  border-radius:5px;
+}
+.borrar{
+  text-decoration: none;
+  margin-left:5px;
+  padding: 5px;
+  background-color:#D81D0A;
+  color:#fff;
+  border-radius:5px;
+}
